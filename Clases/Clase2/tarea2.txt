@@ -1,0 +1,19 @@
+Tarea 2:
+
+Crear una pagina con bootstrap con lo siguiente:
+
+Tema: Restaurante o Café
+Contenido:
+  - Página de inicio
+  - Menú de alimentos y bebidas
+  - Sucursales
+  - Contacto
+
+* Nota: el cafe debe existir y tiene que estar cerca de su casa *
+
+
+
+Tareas: 40%
+Examen: 15%
+Asistencia-puntualidad:5%
+Proyecto: 40%

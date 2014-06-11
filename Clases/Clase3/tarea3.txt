@@ -1,0 +1,30 @@
+*OBLIGATORIO QUE CONTENGA TODOS LOS ELEMENTOS HTML5  *
+
+Tarea3 Pagina EDUCATIVA
+
+  index.html o página principal:
+    · Galeria de imagenes
+    
+    -CAMPUS-
+    lista sin detallar de los campus alrededor del mundo
+      cada elemento de la lista te debe llevar a otra pagina con contenido detallado
+
+
+      . campus veracruz
+      . campus londres
+      . campus rio de janeiro
+
+
+      -OFERTA EDUCATIVA-
+      tablas:
+          donde me detallen las carreras que imparten
+          otra donde detallen los semestres con sus respectivas materias
+      - QUIENES SOMOS
+        ·mision
+        .vision
+        · lorem
+
+      -CONTACTO
+        -mapas
+        -redes sociales
+        -datos de contacto

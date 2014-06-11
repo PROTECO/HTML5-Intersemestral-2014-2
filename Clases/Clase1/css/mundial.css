@@ -1,0 +1,109 @@
+*{
+
+}
+
+body{
+  margin: 0;
+  background: #F3F3F3;
+}
+body,
+th,
+td,
+input,
+textarea{
+  font-family: "Trebuchet MS",
+                Arial, Helvetica,
+                sans-serif;
+}
+
+input, textarea{
+  font-weight: bold;
+}
+
+input.text{
+  /*
+      izquierda-derecha, arriba-abajo
+  */
+  padding: 2px 5px;
+  /*
+    izquierda, arriba, derecha, abajo
+      padding: 2px 5px 2px 5px;
+
+  */
+  background: #F8FAEB;
+
+  border-top: 1px solid #4D5719;
+  border-left: 1px solid #4D5719;
+  border-right: 1px solid #626456;
+  border-bottom: 1px solid #626456;
+}
+
+input.button{
+  background: #3C7BCF;
+  border-top: 1px solid #3C7BCF;
+  border-left: 1px solid #3C7BCF;
+  border-right: 1px solid #3C7BCF;
+  border-bottom: 1px solid #3C7BCF;
+  color: #FFFFFF;
+}
+
+h1, h2, h3{
+  margin-top: 1.5em;
+  color: #626456;
+}
+
+h1{
+  letter-spacing: -0.1em;
+  font-size: 3em;
+}
+
+h2{
+  letter-spacing: 0.5em;
+  text-transform: uppercase;
+  font-size: 1.1em;
+  font-weight: bold;
+  color:#8D8E85;
+}
+
+p,ul{
+  margin-top: 1.5em;
+  line-height: 1.8em;
+  font-size:1.1em;
+}
+
+a{
+  text-decoration: none;
+  color:#809B30;
+}
+
+#header{
+  width: 800px;
+  height: 55px;
+  margin: 0 auto;
+}
+
+#menu{
+  float: left;
+  width:800px;
+  height:60px;
+  font-family: Arial, Helvetica;
+}
+#menu ul{
+  margin:0;
+  padding:0;
+  
+  /*Le quita las viñetas*/
+  list-style: none;
+}
+
+#menu li{
+  float:left;
+  padding: 0 15px;
+}
+
+
+
+
+
+
+

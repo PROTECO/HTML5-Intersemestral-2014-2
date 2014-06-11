@@ -1,0 +1,28 @@
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus {
+  color: #fff;
+  background-color: red;
+}
+
+.menu-restaurante li a{
+  color:red;
+}
+
+.menu-restaurante li a:visited{
+  background-color: red;
+}
+
+.menu-restaurante li a:focus{
+  background-color: blue;
+}
+
+div{
+  background: url('../../Captura de pantalla 2014-06-11 a la(s) 02.13.46.png');
+}
+
+a img:hover{
+  opacity: .5;
+  cursor:progress;
+}
+
