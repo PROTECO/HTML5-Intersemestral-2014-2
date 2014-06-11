@@ -6,4 +6,9 @@ html_tarea1_MARCOMUNOZ.zip
 Repositorio donde se añadirá todo el material del curso intersemestral HTML5/CSS3 2014-2
 
 Material subido:
-Clase 1 (9 de junio de 2014)
+Clases
+  -Clase 1
+  -Clase 2
+  -Clase 3
+Material
+  -guiaHTML5.pdf
