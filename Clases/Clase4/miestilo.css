@@ -1,0 +1,94 @@
+.box{
+  background: grey;
+  height: 50px;
+  width:200px;
+
+  /*
+  ----BORDER RADIUS----
+
+  ***definiendo todos los lados***
+
+  border-top-left-radius: 15px; 
+  border-top-right-radius: 15px; 
+  border-bottom-left-radius: 15px; 
+  border-bottom-right-radius: 15px;
+  
+
+  ***Pasando un parámetro***
+  border-radius: 15px;
+
+  */
+
+  border-radius: 4px 30px 12px 10px;
+
+  /*******BOX-SHADOW****/
+
+
+  /*
+  box-shadow:
+    50px 2px 15px #000;
+  valor x|valor y | tamaño difuminado |color
+
+  box-shadow: inset 1px 2px 3px 5px #000;
+
+  <inset><valor x> <valor y> <radio dif> <tamaño dif> <color>;
+
+
+  */
+
+
+
+
+  box-shadow:
+    10px 10px 40px 20px red;
+   
+}
+
+
+#titulo{
+  /*
+
+  ----TEXT-SHADOW----
+
+  text-shadow: <valor x> <valor y> <difuminado> <color>;
+
+  */
+
+  text-shadow: 1px 2px 2px #000;
+
+}
+#encabezado{
+  text-shadow: 1px 2px 2px red;
+}
+
+.elemento{
+  /*background-image: url(logo.jpg), url(fondo.png);
+  background-position: top left, center right;
+  background-repeat: no-repeat, no-repeat;*/ 
+
+  /*background:
+    url(logo.jpg) top left no-repeat,
+    url(fondo.png) center right no-repeat;
+  opacity:1;*/
+
+  /*background: linear-gradient(to bottom, red, yellow);*/
+
+  background: radial-gradient(circle at top left, #F78181,#F6CECE );
+
+  /*radial-gradient(<forma> <tamaño> en <posicion>, <color-stop>s)*/
+}
+
+.elemento h1:hover{
+  opacity:.1;
+}
+
+
+
+
+
+
+
+
+
+
+
