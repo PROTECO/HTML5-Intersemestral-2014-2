@@ -13,6 +13,7 @@
   
   <dt>Estructura</dt>
   <dd>
+    <p>El sitio deberá contar con un menu que lleve a las respectivas secciones (externas)</p>
     <ol>
       <li>Inicio</li>
       <li>Nosotros</li>
@@ -22,8 +23,19 @@
     </ol>
   </dd>
   <dt>Herramientas</dt>
-  <dd>Etiquetas de semántica HTML5</dd>
-  <dd>Nuevos formularios HTML5</dd>
-  <dd>Nuesvos atributos a formularios HTML5</dd>
+  <dd>
+    <ul>
+      <li>Etiquetas de semántica HTML5</li>
+      <li>Nuevos formularios HTML5</li>
+      <li>Nuevos atributos de formularios HTML5</li>
+      <li>---------------------------------------</li>
+      <li>Bootstrap</li>
+      <li>---------------------------------------</li>
+      <li>Estilo personalizado en CSS</li>
+      <li>Nuevas propiedades CSS3</li>
+    </ul>
+  </dd>
+
+
 
 </dl>
