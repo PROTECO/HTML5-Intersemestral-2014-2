@@ -36,6 +36,15 @@
     </ul>
   </dd>
 
+  <dt><strong>NOTAS</strong></dt>
+  <dd>
+    <ul>
+      <li>Si están activos, TODOS los botones o links deben llevar a algún url válido.</li>
+      <li>Todos los proyectos deben ser responsivos</li>
+      <li>El menu se debe ver en TODAS las secciones</li>
+    </ul>
+  </dd>
+
 
 
 </dl>
